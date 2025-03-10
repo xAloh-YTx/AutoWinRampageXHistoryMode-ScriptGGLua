@@ -1,2 +1,6 @@
 # AutoWinRampageXHistoryMode-ScriptGGLua
-[ℹ️]: GameGuardian Script
+[🔰] : GameGuardian Script (101.1)
+
+[🎮] : Payback2 (2.106.X)
+
+[🛡️] : No Encode (Open Source)
